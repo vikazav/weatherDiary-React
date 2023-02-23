@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
    
-    <Diary/>
+    <Diary defaultCity = 'Kyiv'/>
     </div>
   );
 }
